@@ -1,0 +1,8 @@
+ABSTRACT
+
+In this project we developed features for Employee Types, Appraisals, Trainings etc, which reduces the human efforts and increase the efficiency.
+We can generate all the reports of Employee Types
+ All Employee reports will be available in the employee report section
+In Departments report we  can generate filtered reports of Departments
+You can generate the report of Departments, Employee Types, Trainings
+Appraisals, Salary, Employee has facility for dynamic search. So you can filter the records run time
